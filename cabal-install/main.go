@@ -4,6 +4,7 @@ import (
 	"encoding/json"
 	"log"
 	"os"
+	"path"
 	"regexp"
 	"strings"
 
@@ -55,7 +56,7 @@ func run() error {
 			a = []string{}
 			assets[version] = a
 		}
-		assets[version] = append(a, e.Text)
+		assets[version] = append(a, path.Base(link))
 	})
 
 	// Before making a request print "Visiting ..."
