@@ -40,7 +40,7 @@ func run() error {
 		if u == nil {
 			return
 		}
-		version := u[1]
+		version := "cabal-install-v" + u[1]
 		// Print link
 		log.Printf("Link found: %q -> %s\n", e.Text, link)
 		// Visit link found on page

@@ -1,111 +1,111 @@
 {
-  "0.10.0": [
+  "cabal-install-v0.10.0": [
     "cabal-install-0.10.0.tar.gz",
     "changelog"
   ],
-  "0.10.2": [
+  "cabal-install-v0.10.2": [
     "README.html",
     "cabal-install-0.10.2.tar.gz",
     "cabal.exe",
     "changelog"
   ],
-  "0.14.0": [
+  "cabal-install-v0.14.0": [
     "README.html",
     "cabal-install-0.14.0.tar.gz",
     "cabal.exe",
     "changelog"
   ],
-  "0.14.1": [
+  "cabal-install-v0.14.1": [
     "cabal-install-0.14.1.tar.gz"
   ],
-  "0.4.6": [
+  "cabal-install-v0.4.6": [
     "cabal-install-0.4.6.tar.gz"
   ],
-  "0.4.9": [
+  "cabal-install-v0.4.9": [
     "cabal-install-0.4.9.tar.gz"
   ],
-  "0.5.0": [
+  "cabal-install-v0.5.0": [
     "cabal-install-0.5.0.tar.gz"
   ],
-  "0.5.1": [
+  "cabal-install-v0.5.1": [
     "cabal-install-0.5.1.tar.gz"
   ],
-  "0.5.2": [
+  "cabal-install-v0.5.2": [
     "cabal-install-0.5.2.tar.gz"
   ],
-  "0.6.0": [
+  "cabal-install-v0.6.0": [
     "cabal-install-0.6.0.tar.gz",
     "cabal.exe",
     "changelog"
   ],
-  "0.6.2": [
+  "cabal-install-v0.6.2": [
     "README.html",
     "cabal-install-0.6.2.tar.gz",
     "cabal.exe",
     "changelog"
   ],
-  "0.6.4": [
+  "cabal-install-v0.6.4": [
     "README.html",
     "cabal-install-0.6.4.tar.gz",
     "cabal.exe",
     "changelog"
   ],
-  "0.8.0": [
+  "cabal-install-v0.8.0": [
     "README.html",
     "cabal-0.8.0.1.exe",
     "cabal-install-0.8.0.tar.gz",
     "cabal.exe",
     "changelog"
   ],
-  "0.8.2": [
+  "cabal-install-v0.8.2": [
     "cabal-install-0.8.2.tar.gz",
     "cabal.exe",
     "changelog"
   ],
-  "1.16.1.0": [
+  "cabal-install-v1.16.1.0": [
     "cabal-install-1.16.1.0.tar.gz"
   ],
-  "1.18.0.1": [
+  "cabal-install-v1.18.0.1": [
     "README.html",
     "cabal-install-1.18.0.1.tar.gz",
     "cabal.exe",
     "changelog"
   ],
-  "1.18.0.2": [
+  "cabal-install-v1.18.0.2": [
     "README.html",
     "cabal-install-1.18.0.2.tar.gz",
     "cabal.exe",
     "changelog"
   ],
-  "1.18.0.3": [
+  "cabal-install-v1.18.0.3": [
     "README.html",
     "cabal-install-1.18.0.3.tar.gz",
     "cabal-x86_64-apple-darwin-mavericks.tar.gz",
     "cabal.exe",
     "changelog"
   ],
-  "1.18.0.4": [
+  "cabal-install-v1.18.0.4": [
     "cabal-install-1.18.0.4.tar.gz",
     "changelog"
   ],
-  "1.18.0.6": [
+  "cabal-install-v1.18.0.6": [
     "cabal-install-1.18.0.6.tar.gz"
   ],
-  "1.18.0.7": [
+  "cabal-install-v1.18.0.7": [
     "cabal-install-1.18.0.7.tar.gz"
   ],
-  "1.18.0.8": [
+  "cabal-install-v1.18.0.8": [
     "cabal-install-1.18.0.8.tar.gz"
   ],
-  "1.18.1.0": [
+  "cabal-install-v1.18.1.0": [
     "cabal-install-1.18.1.0.tar.gz"
   ],
-  "1.20.0.0": [
+  "cabal-install-v1.20.0.0": [
     "cabal-install-1.20.0.0.tar.gz",
     "cabal-x86_64-apple-darwin-mavericks.tar.gz",
     "changelog"
   ],
-  "1.20.0.1": [
+  "cabal-install-v1.20.0.1": [
     "cabal",
     "cabal-i386-unknown-linux.tar.gz",
     "cabal-i386-unknown-mingw32.tar.gz",
@@ -114,63 +114,63 @@
     "cabal-x86_64-unknown-linux.tar.gz",
     "changelog"
   ],
-  "1.20.0.2": [
+  "cabal-install-v1.20.0.2": [
     "cabal-i386-unknown-mingw32.tar.gz",
     "cabal-install-1.20.0.2.tar.gz",
     "cabal-x86_64-apple-darwin-mavericks.tar.gz",
     "changelog"
   ],
-  "1.20.0.3": [
+  "cabal-install-v1.20.0.3": [
     "cabal-1.20.0.3-i386-unknown-linux.tar.gz",
     "cabal-1.20.0.3-i386-unknown-mingw32.tar.gz",
     "cabal-1.20.0.3-x86_64-apple-darwin-mavericks.tar.gz",
     "cabal-install-1.20.0.3.tar.gz",
     "changelog"
   ],
-  "1.20.0.4": [
+  "cabal-install-v1.20.0.4": [
     "cabal-install-1.20.0.4.tar.gz"
   ],
-  "1.20.0.5": [
+  "cabal-install-v1.20.0.5": [
     "cabal-install-1.20.0.5.tar.gz"
   ],
-  "1.20.0.6": [
+  "cabal-install-v1.20.0.6": [
     "cabal-install-1.20.0.6.tar.gz"
   ],
-  "1.20.1.0": [
+  "cabal-install-v1.20.1.0": [
     "cabal-install-1.20.1.0.tar.gz"
   ],
-  "1.22.0.0": [
+  "cabal-install-v1.22.0.0": [
     "cabal-1.22.0.0-i386-unknown-linux.tar.gz",
     "cabal-1.22.0.0-i386-unknown-mingw32.tar.gz",
     "cabal-1.22.0.0-x86_64-apple-darwin-mavericks.tar.gz",
     "cabal-install-1.22.0.0.tar.gz"
   ],
-  "1.22.2.0": [
+  "cabal-install-v1.22.2.0": [
     "cabal-install-1.22.2.0.tar.gz"
   ],
-  "1.22.3.0": [
+  "cabal-install-v1.22.3.0": [
     "cabal-install-1.22.3.0.tar.gz"
   ],
-  "1.22.4.0": [
+  "cabal-install-v1.22.4.0": [
     "cabal-install-1.22.4.0.tar.gz"
   ],
-  "1.22.5.0": [
+  "cabal-install-v1.22.5.0": [
     "cabal-install-1.22.5.0.tar.gz"
   ],
-  "1.22.6.0": [
+  "cabal-install-v1.22.6.0": [
     "cabal-install-1.22.6.0-x86_64-apple-darwin-yosemite.tar.gz",
     "cabal-install-1.22.6.0.tar.gz"
   ],
-  "1.22.7.0": [
+  "cabal-install-v1.22.7.0": [
     "cabal-install-1.22.7.0.tar.gz"
   ],
-  "1.22.8.0": [
+  "cabal-install-v1.22.8.0": [
     "cabal-install-1.22.8.0.tar.gz"
   ],
-  "1.22.9.0": [
+  "cabal-install-v1.22.9.0": [
     "cabal-install-1.22.9.0.tar.gz"
   ],
-  "1.24.0.0": [
+  "cabal-install-v1.24.0.0": [
     "cabal-1.24.0.0-powerpc-ibm-aix7.1.0.0.xz",
     "cabal-1.24.0.0-powerpc-ibm-aix7.1.0.0.xz.sig",
     "cabal-install-1.24.0.0-i386-unknown-linux.tar.gz",
@@ -181,10 +181,10 @@
     "cabal-install-1.24.0.0.tar.gz",
     "changelog"
   ],
-  "1.24.0.1": [
+  "cabal-install-v1.24.0.1": [
     "cabal-install-1.24.0.1.tar.gz"
   ],
-  "1.24.0.2": [
+  "cabal-install-v1.24.0.2": [
     "cabal-install-1.24.0.2-i386-unknown-linux.tar.gz",
     "cabal-install-1.24.0.2-i386-unknown-mingw32.zip",
     "cabal-install-1.24.0.2-x86_64-apple-darwin-yosemite.tar.gz",
@@ -192,7 +192,7 @@
     "cabal-install-1.24.0.2-x86_64-unknown-mingw32.zip",
     "cabal-install-1.24.0.2.tar.gz"
   ],
-  "2.0.0.0": [
+  "cabal-install-v2.0.0.0": [
     "cabal-install-2.0.0.0-i386-unknown-linux.tar.gz",
     "cabal-install-2.0.0.0-i386-unknown-mingw32.zip",
     "cabal-install-2.0.0.0-x86_64-apple-darwin-sierra.tar.xz",
@@ -201,7 +201,7 @@
     "cabal-install-2.0.0.0-x86_64-unknown-mingw32.zip",
     "cabal-install-2.0.0.0.tar.gz"
   ],
-  "2.0.0.1": [
+  "cabal-install-v2.0.0.1": [
     "cabal-install-2.0.0.1-i386-unknown-linux.tar.gz",
     "cabal-install-2.0.0.1-i386-unknown-mingw32.zip",
     "cabal-install-2.0.0.1-x86_64-apple-darwin-sierra.tar.xz",
@@ -209,7 +209,7 @@
     "cabal-install-2.0.0.1-x86_64-unknown-mingw32.zip",
     "cabal-install-2.0.0.1.tar.gz"
   ],
-  "2.2.0.0": [
+  "cabal-install-v2.2.0.0": [
     "cabal-install-2.2.0.0-i386-unknown-linux.tar.gz",
     "cabal-install-2.2.0.0-i386-unknown-mingw32.zip",
     "cabal-install-2.2.0.0-x86_64-apple-darwin-sierra.tar.gz",
@@ -218,7 +218,7 @@
     "cabal-install-2.2.0.0.tar.gz",
     "changelog"
   ],
-  "2.4.0.0": [
+  "cabal-install-v2.4.0.0": [
     "cabal-install-2.4.0.0-i386-unknown-mingw32.zip",
     "cabal-install-2.4.0.0-x86_64-apple-darwin-sierra.tar.gz",
     "cabal-install-2.4.0.0-x86_64-unknown-linux.tar.gz",
@@ -226,7 +226,7 @@
     "cabal-install-2.4.0.0.tar.gz",
     "changelog"
   ],
-  "2.4.1.0": [
+  "cabal-install-v2.4.1.0": [
     "cabal-install-2.4.1.0-i386-unknown-linux.tar.xz",
     "cabal-install-2.4.1.0-i386-unknown-mingw32.zip",
     "cabal-install-2.4.1.0-powerpc-ibm-aix7.1.0.0.tar.xz",
@@ -238,7 +238,7 @@
     "cabal-install-2.4.1.0.tar.gz",
     "changelog"
   ],
-  "3.0.0.0": [
+  "cabal-install-v3.0.0.0": [
     "SHA256SUMS",
     "SHA256SUMS.sig",
     "cabal-install-3.0.0.0-i386-alpine-linux-musl.tar.xz",
@@ -252,7 +252,7 @@
     "cabal-install-3.0.0.0.tar.gz",
     "changelog"
   ],
-  "3.10.1.0": [
+  "cabal-install-v3.10.1.0": [
     "Cabal-3.10.1.0.tar.gz",
     "Cabal-syntax-3.10.1.0.tar.gz",
     "SHA256SUMS",
@@ -273,7 +273,7 @@
     "cabal-install-3.10.1.0.tar.gz",
     "cabal-install-solver-3.10.1.0.tar.gz"
   ],
-  "3.10.2.0": [
+  "cabal-install-v3.10.2.0": [
     "Cabal-3.10.2.1.tar.gz",
     "Cabal-syntax-3.10.2.0.tar.gz",
     "SHA256SUMS",
@@ -298,7 +298,7 @@
     "cabal-install-3.10.2.0.tar.gz",
     "cabal-install-solver-3.10.2.0.tar.gz"
   ],
-  "3.10.3.0": [
+  "cabal-install-v3.10.3.0": [
     "Cabal-3.10.3.0.tar.gz",
     "Cabal-syntax-3.10.3.0.tar.gz",
     "SHA256SUMS",
@@ -323,7 +323,7 @@
     "cabal-install-3.10.3.0.tar.gz",
     "cabal-install-solver-3.10.3.0.tar.gz"
   ],
-  "3.12.1.0": [
+  "cabal-install-v3.12.1.0": [
     "Cabal-3.12.1.0.tar.gz",
     "Cabal-syntax-3.12.1.0.tar.gz",
     "SHA256SUMS",
@@ -359,7 +359,7 @@
     "cabal-install-3.12.1.0.tar.gz",
     "cabal-install-solver-3.12.1.0.tar.gz"
   ],
-  "3.14.1.0": [
+  "cabal-install-v3.14.1.0": [
     "Cabal-3.14.1.0.tar.gz",
     "Cabal-syntax-3.14.1.0.tar.gz",
     "SHA256SUMS",
@@ -396,7 +396,7 @@
     "cabal-install-3.14.1.0.tar.gz",
     "cabal-install-solver-3.14.1.0.tar.gz"
   ],
-  "3.14.1.1": [
+  "cabal-install-v3.14.1.1": [
     "Cabal-3.14.1.1.tar.gz",
     "Cabal-hooks-3.14.tar.gz",
     "SHA256SUMS",
@@ -432,7 +432,7 @@
     "cabal-install-3.14.1.1-x86_64-windows.zip",
     "cabal-install-3.14.1.1.tar.gz"
   ],
-  "3.14.2.0": [
+  "cabal-install-v3.14.2.0": [
     "Cabal-3.14.2.0.tar.gz",
     "Cabal-syntax-3.14.2.0.tar.gz",
     "SHA256SUMS",
@@ -468,7 +468,7 @@
     "cabal-install-3.14.2.0.tar.gz",
     "cabal-install-solver-3.14.2.0.tar.gz"
   ],
-  "3.16.0.0": [
+  "cabal-install-v3.16.0.0": [
     "Cabal-3.16.0.0.tar.gz",
     "Cabal-syntax-3.16.0.0.tar.gz",
     "SHA256SUMS",
@@ -497,7 +497,7 @@
     "cabal-install-3.16.0.0.tar.gz",
     "cabal-install-solver-3.16.0.0.tar.gz"
   ],
-  "3.2.0.0": [
+  "cabal-install-v3.2.0.0": [
     "SHA256SUMS",
     "SHA256SUMS.sig",
     "cabal-install-3.2.0.0-i386-alpine-linux-musl.licenses.html",
@@ -530,7 +530,7 @@
     "cabal-install-3.2.0.0.tar.gz",
     "changelog"
   ],
-  "3.4.0.0": [
+  "cabal-install-v3.4.0.0": [
     "SHA256SUMS",
     "SHA256SUMS.asc",
     "cabal-install-3.4.0.0-aarch64-ubuntu-18.04.tar.xz",
@@ -542,7 +542,7 @@
     "cabal-install-3.4.0.0-x86_64-windows.zip",
     "cabal-install-3.4.0.0.tar.gz"
   ],
-  "3.4.1.0": [
+  "cabal-install-v3.4.1.0": [
     "SHA256SUMS",
     "SHA256SUMS.sig",
     "cabal-install-3.4.1.0-aarch64-darwin.tar.xz",
@@ -558,7 +558,7 @@
     "cabal-install-3.4.1.0-x86_64-linux-deb10.tar.xz",
     "cabal-install-3.4.1.0-x86_64-windows.zip"
   ],
-  "3.6.0.0": [
+  "cabal-install-v3.6.0.0": [
     "SHA256SUMS",
     "SHA256SUMS.sig",
     "cabal-install-3.6.0.0-aarch64-linux-deb10.tar.xz",
@@ -570,7 +570,7 @@
     "cabal-install-3.6.0.0-x86_64-windows.zip",
     "cabal-install-3.6.0.0.tar.gz"
   ],
-  "3.6.2.0": [
+  "cabal-install-v3.6.2.0": [
     "SHA256SUMS",
     "SHA256SUMS.sig",
     "cabal-install-3.6.2.0-aarch64-darwin.tar.xz",
@@ -587,7 +587,7 @@
     "cabal-install-3.6.2.0-x86_64-windows.zip",
     "cabal-install-3.6.2.0.tar.gz"
   ],
-  "3.8.1.0": [
+  "cabal-install-v3.8.1.0": [
     "Cabal-3.8.1.0.tar.gz",
     "Cabal-syntax-3.8.1.0.tar.gz",
     "SHA256SUMS",
@@ -601,7 +601,7 @@
     "cabal-install-3.8.1.0.tar.gz",
     "cabal-install-solver-3.8.1.0.tar.gz"
   ],
-  "3.9.0.0": [
+  "cabal-install-v3.9.0.0": [
     "cabal-install-3.9-aarch64-darwin.tar.xz",
     "cabal-install-3.9-x86_64-darwin.tar.xz",
     "cabal-install-3.9-x86_64-linux-alpine.tar.xz",
